@@ -34,37 +34,37 @@ I will love to focus more on the Backend and Database for the project and other 
 Create React App. We are using React 17+ version.
 TERMINAL
 npx create-react-app my-app
-COPY
+
 ## Step 2
 Navigate to app's directory
 TERMINAL
 cd my-app
-COPY
+
 ### MDB installation
 ## Step 1
 Setup MDB
 TERMINAL
 npm i mdb-react-ui-kit
-COPY
+
 ## CSS import
 Add the following line in your index.js file before the App.js file import:
 INDEX.JS
 import 'mdb-react-ui-kit/dist/css/mdb.min.css'
-COPY
+
 ## Font Awesome
 Add the following line in public/index.html file inside head section:
 INDEX.HTML
 <link href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" rel="stylesheet" />
-COPY
+
 ## Roboto font
 Add the following line in public/index.html file inside head section:
 INDEX.HTML
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
-COPY
+
 Set font family in globally css file for example src/index.css inside src folder as in the example:
 INDEX.CSS
 body { font-family: Roboto, Helvetica, Arial, sans-serif; }
-COPY
+
 ### Step 2
 Launch your app
 TERMINAL
