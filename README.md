@@ -1,5 +1,5 @@
 ## Overview
- I Design the Global Chef website using React-Boostrap (MDB React) and added some complex features and functionality to it.
+ I Design the Global Chef website using React-Bootstrap (MDB React) and added some complex features and functionality to it.
 The Project Challenge
 Users should be able to:
 - View the optimal layout for the app depending on their device's screen size
@@ -17,8 +17,9 @@ The project is a hard task and it took me four weeks to complete. I did the proj
 - CSS 
 - Flexbox
 - CSS Grid
--  MdB React
--Javascript
+- MdB React
+- Javascript
+- Firebase
  
 ## What I learned
 The project exposes me to react. This is the first project I built with React.js. I learnt how to use MDB React and I understand better the principle of React.js with this project.
@@ -26,6 +27,9 @@ The project exposes me to react. This is the first project I built with React.js
 
 ## Continued development
 I will love to focus more on the Backend and Database for the project and other projects too.
+
+## Deployement
+I deploy the website on Github and host it on Firebase.
 
 
 ### My Installation steps
